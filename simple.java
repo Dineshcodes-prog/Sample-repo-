@@ -1,3 +1,1 @@
-public class simple{
-    
-}
+public  datas(){};
